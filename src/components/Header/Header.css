@@ -1,0 +1,26 @@
+.header{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+  padding: 15px;
+  border-radius: 20px;
+  margin: 15px;
+}
+
+.header a{
+  text-decoration: none;
+  margin-right: 30px;
+  font-size: 24px;
+  font-weight: 600;
+  color: white;
+  /* color: tomato; */
+}
+.header a:hover{
+  text-decoration: none;
+  margin-right: 30px;
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(210, 89, 68);
+}
